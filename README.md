@@ -1,4 +1,4 @@
-# semsmsm# Hi there, I'm [Your Name] 👋
+# semsmsm#  I'm Sem
 
 Computer Engineer focused on architecting **Process AI** workflows, building custom **Model Context Protocol (MCP)** servers, and engineering high-fidelity **Computer Vision** & **Simulation Systems**. 
 
